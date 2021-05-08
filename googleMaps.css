@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  overflow: hidden;
+}
+
+.notFullScreen {
+  width: 100vw;
+  height: 90vh;
+}
+
+.fullScreen {
+  width: 100vw;
+  height: 100vh;
+}
+
+#menu {
+  position: relative;
+}
