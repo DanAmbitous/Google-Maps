@@ -3,16 +3,7 @@ body {
   overflow: hidden;
 }
 
-.notFullScreen {
-  width: 100vw;
-  height: 90vh;
-}
-
-.fullScreen {
+#map {
   width: 100vw;
   height: 100vh;
-}
-
-#menu {
-  position: relative;
 }
